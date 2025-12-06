@@ -18,3 +18,8 @@ Yap Sin Er
     - Hobby: Pickle ball
     - Profession: Student
 
+Audrey Vera 
+    - Born: 2003, Limbang, Sarawak
+    - Hobby: Anime Marathon. 
+    - Profession: Student
+
